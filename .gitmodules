@@ -1,6 +1,3 @@
 [submodule "master"]
 	path = master
 	url = https://github.com/AxPhantom/plugin.program.wukong.git
-[submodule "Master/plugin.program.wukong"]
-	path = Master/plugin.program.wukong
-	url = https://github.com/AxPhantom/plugin.program.wukong.git
