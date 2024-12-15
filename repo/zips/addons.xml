@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="repository.wukong" name="[COLOR crimson][B]Wukong[/B][/COLOR]Wizard Repository" version="2.5" provider-name="Macaulay">
+<addon id="repository.wukong" name="[COLOR crimson][B]Wukong[/B][/COLOR]Wizard Repository" version="2.5.1" provider-name="Macaulay">
     <extension point="xbmc.addon.repository" name="[COLOR crimson][B]Wukong[/B][/COLOR]Wizard Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/AxPhantom/repository.wukong/master/Master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/AxPhantom/repository.wukong/master/Master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/AxPhantom/repository.wukong/master/Master/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/AxPhantom/repository.wukong/master/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/AxPhantom/repository.wukong/master/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/AxPhantom/repository.wukong/master/master/zips/</datadir>
         </dir>
     </extension>
 
